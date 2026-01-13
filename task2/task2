@@ -1,1 +1,26 @@
+# Guess the Number Game - Saiket Internship Task 2
+
+## Description
+This project is a simple number guessing game developed using Python.
+The program generates a random number, and the user has to guess it.
+Based on the guess, the program provides hints such as "Too High" or "Too Low".
+The total number of attempts is tracked and displayed at the end.
+
+## Technologies Used
+- Python
+- Random Module
+- Loops
+- Conditional Statements
+
+## Features
+- Random number generation
+- User-friendly instructions
+- Hint system (Higher / Lower)
+- Attempt counter
+
+## How to Run
+1. Open terminal or command prompt
+2. Navigate to the project folder
+3. Run the following command:
+
 
